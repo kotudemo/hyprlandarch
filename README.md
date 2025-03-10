@@ -1,4 +1,4 @@
-# TUT VSE SPIZHENO!!!!!
+# ФУРРИ В ПОДГУЗНИКАХ В КОМПЛЕКТЕ НЕ ИДУТ!!!!!
 
 ![image](https://github.com/user-attachments/assets/ce07bff0-9b9d-45c1-9b02-248b86e3e475)
 
