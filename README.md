@@ -6,6 +6,7 @@
 ## Software I use 
 `ly`
 `pipewire`
+`realtime-privileges`
 `pavucontrol`
 `hyprland`
 `fish`
