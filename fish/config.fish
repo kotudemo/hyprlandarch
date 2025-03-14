@@ -483,5 +483,3 @@ starship init fish | source
 #function fish_greeting
 #    # smth smth
 #end
-
-fish_add_path /home/wpg1984fa/.spicetify
