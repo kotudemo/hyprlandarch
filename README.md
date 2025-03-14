@@ -18,6 +18,7 @@
 `cava`
 `btop`
 `starship`
+`eza`
 `nvim`
 `geany`
 `wttrbar`
