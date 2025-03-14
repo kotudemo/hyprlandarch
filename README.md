@@ -50,7 +50,8 @@
 [Discord](https://flathub.org/apps/com.discordapp.Discord) with [Vencord mod](https://vencord.dev/) and custom config\
 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) \
-[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl)
+[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) \
+[Vscodium](https://flathub.org/apps/com.vscodium.codium-insiders)
 
 ### Theming 
 `nwg-look` 
