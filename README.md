@@ -4,8 +4,8 @@
 
 
 ## TODO LIST
-move to ags/hyprpanel
-add some fancy plugins
+move to ags/hyprpanel \
+add some fancy plugins \
 change cursor
 
 ## Software I use 
