@@ -3,6 +3,11 @@
 ![image](https://github.com/user-attachments/assets/ce07bff0-9b9d-45c1-9b02-248b86e3e475)
 
 
+## TODO LIST
+move to ags/hyprpanel
+add some fancy plugins
+change cursor
+
 ## Software I use 
 `ly`
 `pipewire`
