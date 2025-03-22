@@ -4,7 +4,7 @@ font=RobotoMono Nerd Font
 clock
 timestr=%R
 
-image=~/Pictures/gruvbox_spac.jpg
+image=~/.config/wallpapers/gruvbox_spac.jpg
 
 fade-in=0.4
 
