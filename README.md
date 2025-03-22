@@ -11,19 +11,17 @@ change cursor
 ## All software I use 
 - `ly` as a session manager
 - `hyprland` as a wm
-- Waybar and modules:
+- **Waybar and modules:**
 `wttrbar` 
 `wttr`
 `waybar-cava`
-`wofi`
-`mako`
-`swayimg`
-`swaylock`
-`wllogout`
-`wl-clipboard`
-`cliphist`
-`wlsunset`
-`wl-color-picker`
+- `wofi` as a dmenu
+- `mako` as a notification daemon
+- `swaylock` as screen locking utility
+- `wllogout` as a powermenu
+- `wl-clipboard` and `cliphist` for clipboard history writing
+- `wlsunset`  as gamma adjustments tool
+- `wl-color-picker` as PowerToys colorpicker
 - Fancy CLI:
 `fish`
 `foot`
@@ -56,6 +54,7 @@ change cursor
 `transmission-gtk3`
 `obs-studio`
 `mpv`
+`swayimg` 
 `spotify-launcher`
 `librewolf-bin`
 `telegram-desktop`
