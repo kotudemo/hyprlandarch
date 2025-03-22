@@ -57,6 +57,7 @@ change cursor
 `protonup-qt-bin`
 `freesmlauncher`
 `the-honkers-railway-launcher-bin`
+`tetrio-plus-bin`
 
 ## Flatpak software
 [Discord](https://flathub.org/apps/com.discordapp.Discord) with [Vencord mod](https://vencord.dev/) and custom config\
