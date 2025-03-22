@@ -9,83 +9,34 @@ add some fancy plugins \
 change cursor
 
 ## All software I use 
-- `ly` as a session manager
-- `hyprland` as a wm
-- **Waybar and modules:**
-`wttrbar` 
-`wttr`
-`waybar-cava`
-- `wofi` as a dmenu
-- `mako` as a notification daemon
-- `swaylock` as screen locking utility
-- `wllogout` as a powermenu
-- `wl-clipboard` and `cliphist` for clipboard history writing
-- `wlsunset`  as gamma adjustments tool
-- `wl-color-picker` as PowerToys colorpicker
-- Fancy CLI:
-`fish`
-`foot`
-`fastfetch`
-`asciiquarium`
-`tty-clock`
-`nyancat`
-`cava`
-`btop`
-`starship`
-`eza` 
-- Text editors:
-`nvim`
-`geany`
-`vscodium-bin-marketplace`
-
-
-
-
-
-
-`grim`
-`slurp`
-`swappy`
-`imagemagick`
-`tesseract`
-`nemo`
-`galculator`
-`ark`
-`transmission-gtk3`
-`obs-studio`
-`mpv`
-`swayimg` 
-`spotify-launcher`
-`librewolf-bin`
-`telegram-desktop`
-`hiddify`
-`proton-vpn-gtk-app`
-`protonup-qt-bin`
-`freesmlauncher`
-`the-honkers-railway-launcher-bin`
-`tetrio-plus-bin`
+- Session manager: `ly` 
+- Window manager: `hyprland`
+- Waybar and modules:`wttrbar` `wttr` `waybar-cava`
+- Launcher: `wofi` 
+- Notification daemon: `mako` 
+- Screen locking utility: `swaylock` 
+- Powermenu: `wllogout`
+- Clipboard history: `wl-clipboard` and `cliphist`
+- Gamma adjustments tool: `wlsunset` 
+- Colorpicker: `wl-color-picker`
+- Screenshots and text extracting: `grim` `slurp` `swappy` `imagemagick` `tesseract`
+- Fancy CLI: `fish` `foot` `fastfetch` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `starship` `eza` 
+- Text editors: `nvim` `geany` `vscodium-bin-marketplace`
+- File manager: `nemo`
+- VPN and proxies: `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
+- Everyday software: `librewolf-bin` `telegram-desktop` `spotify-launcher` `mpv` `swayimg` `transmission-gtk3` `obs-studio` `galculator` `ark`
+- Gaming: [Steam](https://flathub.org/apps/com.valvesoftware.Steam) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `protonup-qt-bin` `freesmlauncher` `the-honkers-railway-launcher-bin` `tetrio-plus-bin` 
 - Audio:`pipewire`
 `realtime-privileges`
 `pavucontrol`
 
-## Flatpak software
-[Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
-[AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) \
-[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) 
-
-### Theming 
-`nwg-look` 
-`gruvbox-dark-gtk` 
-`gruvbox-dark-icons-gtk`
-`nerd-fonts`
-`kvantum`
-`qt5ct`
-`qt6ct` \
+- Theming  `nwg-look`  `gruvbox-dark-gtk`  `gruvbox-dark-icons-gtk` `nerd-fonts` `kvantum` `qt5ct` `qt6ct` \
 [Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum) \
-For discord I use [Vencord mod](https://vencord.dev/) and custom config
+For discord I use [Vencord mod](https://vencord.dev/) and custom config \
+And this one for Steam [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk)
 
 ## Browser settings 
-user.js from this repo 
+Custom user.js 
 
 ### Extensions 
 [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) with my gruvbox theme \
@@ -102,6 +53,3 @@ user.js from this repo
 
 ### Theme
 [Gruvbox](https://addons.mozilla.org/en-US/firefox/addon/gruvboxtheme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-
-## Extras
-If u r using Alpine/Openwrt/Debian-based/Arch-based/RPM-based u can use [this script](https://github.com/Snowy-Fluffy/zapret.installer) to setup zapret 
