@@ -8,7 +8,7 @@ move to ags/hyprpanel \
 add some fancy plugins \
 change cursor
 
-## Software I use 
+## All software I use 
 `ly`
 `pipewire`
 `realtime-privileges`
@@ -41,6 +41,7 @@ change cursor
 `grim`
 `slurp`
 `swappy`
+`imagemagick`
 `tesseract`
 `nemo`
 `galculator`
@@ -50,7 +51,12 @@ change cursor
 `mpv`
 `spotify-launcher`
 `librewolf-bin`
-
+`telegram-desktop`
+`hiddify`
+`proton-vpn-gtk-app`
+`protonup-qt-bin`
+`freesmlauncher`
+`the-honkers-railway-launcher-bin`
 
 ## Flatpak software
 [Discord](https://flathub.org/apps/com.discordapp.Discord) with [Vencord mod](https://vencord.dev/) and custom config\
