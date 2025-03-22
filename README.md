@@ -1,4 +1,8 @@
 ![image](https://github.com/user-attachments/assets/c970c856-d770-45f9-963b-d69876b6f48a)
+![image](https://github.com/user-attachments/assets/1b6c1dff-347f-4b0b-ab55-b34aedc9c3a3)
+![image](https://github.com/user-attachments/assets/74afc7d2-9412-4af5-a93f-8fe4922fe347)
+
+
 
 ## TODO LIST
 move to ags/hyprpanel \
