@@ -26,6 +26,7 @@ change cursor
 `eza`
 `nvim`
 `geany`
+`vscodium-bin-marketplace`
 `wttrbar`
 `wttr`
 `waybar-cava`
@@ -63,8 +64,7 @@ change cursor
 [Discord](https://flathub.org/apps/com.discordapp.Discord) with [Vencord mod](https://vencord.dev/) and custom config\
 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) \
-[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) \
-[Vscodium](https://flathub.org/apps/com.vscodium.codium-insiders)
+[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) 
 
 ### Theming 
 `nwg-look` 
