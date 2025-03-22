@@ -9,25 +9,10 @@ add some fancy plugins \
 change cursor
 
 ## All software I use 
-`ly`
-`pipewire`
-`realtime-privileges`
-`pavucontrol`
-`hyprland`
-`fish`
-`foot`
-`fastfetch`
-`asciiquarium`
-`tty-clock`
-`nyancat`
-`cava`
-`btop`
-`starship`
-`eza`
-`nvim`
-`geany`
-`vscodium-bin-marketplace`
-`wttrbar`
+- `ly` as a session manager
+- `hyprland` as a wm
+- Waybar and modules:
+`wttrbar` 
 `wttr`
 `waybar-cava`
 `wofi`
@@ -39,6 +24,27 @@ change cursor
 `cliphist`
 `wlsunset`
 `wl-color-picker`
+- Fancy CLI:
+`fish`
+`foot`
+`fastfetch`
+`asciiquarium`
+`tty-clock`
+`nyancat`
+`cava`
+`btop`
+`starship`
+`eza` 
+- Text editors:
+`nvim`
+`geany`
+`vscodium-bin-marketplace`
+
+
+
+
+
+
 `grim`
 `slurp`
 `swappy`
@@ -59,6 +65,9 @@ change cursor
 `freesmlauncher`
 `the-honkers-railway-launcher-bin`
 `tetrio-plus-bin`
+- Audio:`pipewire`
+`realtime-privileges`
+`pavucontrol`
 
 ## Flatpak software
 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
