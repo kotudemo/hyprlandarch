@@ -61,7 +61,6 @@ change cursor
 `tetrio-plus-bin`
 
 ## Flatpak software
-[Discord](https://flathub.org/apps/com.discordapp.Discord) with [Vencord mod](https://vencord.dev/) and custom config\
 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) \
 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) \
 [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) 
@@ -74,7 +73,8 @@ change cursor
 `kvantum`
 `qt5ct`
 `qt6ct` \
-[Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum)
+[Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum) \
+For discord I use [Vencord mod](https://vencord.dev/) and custom config
 
 ## Browser settings 
 user.js from this repo 
