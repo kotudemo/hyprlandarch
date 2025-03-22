@@ -7,7 +7,8 @@
 ## TODO LIST
 move to ags/hyprpanel \
 add some fancy plugins \
-change cursor
+change cursor \
+add some emojis to README.md
 
 ## All software I use 
 - Session manager: `ly` 
