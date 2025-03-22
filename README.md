@@ -8,7 +8,8 @@
 move to ags/hyprpanel \
 add some fancy plugins \
 change cursor \
-add some emojis to README.md
+add some emojis to README.md \
+change bar 
 
 ## All software I use 
 - Session manager: `ly` 
