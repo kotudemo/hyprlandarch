@@ -41,6 +41,7 @@ change cursor
 `grim`
 `slurp`
 `swappy`
+`textsnatcher-git`
 `nemo`
 `galculator`
 `ark`
