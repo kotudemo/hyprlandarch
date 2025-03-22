@@ -5,7 +5,6 @@
 
 
 ## TODO LIST
-move to ags/hyprpanel \
 add some fancy plugins \
 change bar 
 
