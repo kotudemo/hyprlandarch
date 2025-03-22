@@ -1,7 +1,4 @@
-# ФУРРИ В ПОДГУЗНИКАХ В КОМПЛЕКТЕ НЕ ИДУТ!!!!!
-
-![image](https://github.com/user-attachments/assets/ce07bff0-9b9d-45c1-9b02-248b86e3e475)
-
+![image](https://github.com/user-attachments/assets/c970c856-d770-45f9-963b-d69876b6f48a)
 
 ## TODO LIST
 move to ags/hyprpanel \
