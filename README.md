@@ -12,24 +12,25 @@ add some emojis to README.md \
 change bar 
 
 ## All software I use 
-- Session manager: `ly` 
-- Window manager: `hyprland`
-- Waybar and modules:`wttrbar` `wttr` `waybar-cava`
-- Launcher: `wofi` 
-- Notification daemon: `mako` 
-- Screen locking utility: `swaylock` 
-- Powermenu: `wllogout`
-- Clipboard history: `wl-clipboard` and `cliphist`
-- Gamma adjustments tool: `wlsunset` 
-- Colorpicker: `wl-color-picker`
-- Screenshots and text extracting: `grim` `slurp` `swappy` `imagemagick` `tesseract`
-- Fancy CLI: `fish` `foot` `fastfetch` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `starship` `eza` 
-- Text editors: `nvim` `geany` `vscodium-bin-marketplace`
-- File manager: `nemo`
-- VPN and proxies: `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
+- Session manager 👤 : `ly` 
+- Window manager 🗔 : `hyprland`
+- Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava`
+- Launcher 🚀 : `wofi` 
+- Notification daemon 🔔 : `mako`
+- Wallpaper utility 🌅 : `swww`
+- Screen locking utility 🔒 : `swaylock` 
+- Powermenu 🔌 : `wllogout`
+- Clipboard history 📋 : `wl-clipboard` and `cliphist`
+- Gamma adjustments tool 🌇 : `wlsunset` 
+- Colorpicker 🖌️ : `wl-color-picker`
+- Screenshots and text extracting 📸 : `grim` `slurp` `swappy` `imagemagick` `tesseract`
+- Fancy CLI 💻 : `fish` `foot` `fastfetch` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `starship` `eza` 
+- Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
+- File manager 📁 : `nemo`
+- VPN and proxies 🥷 : `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
 - Everyday software: `librewolf-bin` `telegram-desktop` `spotify-launcher` `mpv` `swayimg` `transmission-gtk3` `obs-studio` `galculator` `ark`
-- Gaming: [Steam](https://flathub.org/apps/com.valvesoftware.Steam) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `protonup-qt-bin` `freesmlauncher` `the-honkers-railway-launcher-bin` `tetrio-plus-bin` 
-- Audio:`pipewire`
+- Gaming 🎮 : [Steam](https://flathub.org/apps/com.valvesoftware.Steam) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `protonup-qt-bin` `freesmlauncher` `the-honkers-railway-launcher-bin` `tetrio-plus-bin` 
+- Audio 🎧 :`pipewire`
 `realtime-privileges`
 `pavucontrol`
 
