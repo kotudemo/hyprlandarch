@@ -10,7 +10,7 @@ change bar
 
 ## All software I use 
 - Session manager 👤 : `ly` 
-- Window manager 🗔 : `hyprland`
+- Window manager 🗔 : `hyprland` with [hycov](https://github.com/bighu630/hycov)
 - Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava`
 - Launcher 🚀 : `wofi` 
 - Notification daemon 🔔 : `mako`
