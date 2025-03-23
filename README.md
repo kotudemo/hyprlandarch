@@ -30,8 +30,8 @@ change bar
 - Audio 🎧 :`pipewire`
 `realtime-privileges`
 `pavucontrol`
-
-- Theming  `nwg-look`  `gruvbox-dark-gtk`  `gruvbox-dark-icons-gtk` `googledot-cursor-theme` `nerd-fonts` `kvantum` `qt5ct` `qt6ct` \
+- Printing 🖨️ : `cups` `gutenprint` `ufrii-print` 
+- Theming 🎨 : `nwg-look`  `gruvbox-dark-gtk`  `gruvbox-dark-icons-gtk` `googledot-cursor-theme` `nerd-fonts` `kvantum` `qt5ct` `qt6ct` \
 [Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum) \
 For discord I use [Vencord mod](https://vencord.dev/) and custom config \
 And this one for Steam [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk)
