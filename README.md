@@ -18,7 +18,7 @@ change bar
 - Screen locking utility 🔒 : `swaylock` 
 - Powermenu 🔌 : `wllogout`
 - Clipboard history 📋 : `wl-clipboard` and `cliphist`
-- Gamma adjustments tool 🌇 : `wlsunset` 
+- Gamma adjustments tool 🌇 : `hyprsunset-git` 
 - Colorpicker 🖌️ : `hyprpicker-git`
 - Screenshots and text extracting 📸 : `grim` `slurp` `swappy` `imagemagick` `tesseract`
 - Fancy CLI 💻 : `fish` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
