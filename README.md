@@ -11,21 +11,21 @@ change bar
 ## All software I use 
 - Session manager 👤 : `ly` 
 - Window manager 🗔 : `hyprland` with [hycov](https://github.com/bighu630/hycov)
-- Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava`
+- Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava` `power-profiles-daemon`
 - Launcher 🚀 : `wofi` 
 - Notification daemon 🔔 : `mako`
 - Wallpaper utility 🌅 : `swww`
 - Screen locking utility 🔒 : `swaylock` 
 - Powermenu 🔌 : `wllogout`
 - Clipboard history 📋 : `wl-clipboard` and `cliphist`
-- Gamma adjustments tool 🌇 : `hyprsunset-git` 
+- Gamma adjustments tool 🌇 : `wlsunset` 
 - Colorpicker 🖌️ : `hyprpicker-git`
 - Screenshots and text extracting 📸 : `grim` `slurp` `swappy` `imagemagick` `tesseract`
 - Fancy CLI 💻 : `fish` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
 - Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
 - File manager 📁 : `nemo`
 - VPN and proxies 🥷 : `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
-- Everyday software: `librewolf-bin` `telegram-desktop` `spotify-launcher` `mpv` `swayimg` `transmission-gtk3` `obs-studio` `galculator` `ark`
+- Everyday software: `librewolf-bin` `telegram-desktop` `spotify-launcher` `mpv` `swayimg` `transmission-gtk3` `obs-studio` `wf-recorder` `galculator` `ark`
 - Gaming 🎮 : [Steam](https://flathub.org/apps/com.valvesoftware.Steam) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `protonup-qt-bin` `freesmlauncher` `the-honkers-railway-launcher-bin` `tetrio-plus-bin` 
 - Audio 🎧 :`pipewire`
 `realtime-privileges` `pamixer`
