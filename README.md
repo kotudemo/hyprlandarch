@@ -21,15 +21,15 @@ change bar
 - Gamma adjustments tool 🌇 : `wlsunset` 
 - Colorpicker 🖌️ : `wl-color-picker`
 - Screenshots and text extracting 📸 : `grim` `slurp` `swappy` `imagemagick` `tesseract`
-- Fancy CLI 💻 : `fish` `foot` `fastfetch` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `starship` `eza` 
+- Fancy CLI 💻 : `fish` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
 - Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
 - File manager 📁 : `nemo`
 - VPN and proxies 🥷 : `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
 - Everyday software: `librewolf-bin` `telegram-desktop` `spotify-launcher` `mpv` `swayimg` `transmission-gtk3` `obs-studio` `galculator` `ark`
 - Gaming 🎮 : [Steam](https://flathub.org/apps/com.valvesoftware.Steam) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `protonup-qt-bin` `freesmlauncher` `the-honkers-railway-launcher-bin` `tetrio-plus-bin` 
 - Audio 🎧 :`pipewire`
-`realtime-privileges`
-`pavucontrol`
+`realtime-privileges` `pamixer`
+`pavucontrol` 
 - Printing 🖨️ : `cups` `gutenprint` `ufrii-print` 
 - Theming 🎨 : `nwg-look`  `gruvbox-dark-gtk`  `gruvbox-dark-icons-gtk` `googledot-cursor-theme` `nerd-fonts` `kvantum` `qt5ct` `qt6ct` \
 [Kvantum Gruvbox theme](https://github.com/TheExacc/Gruvbox-Kvantum) \
