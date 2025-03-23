@@ -11,7 +11,7 @@ change bar
 ## All software I use 
 - Session manager 👤 : `ly` 
 - Window manager 🗔 : `hyprland` with [hycov](https://github.com/bighu630/hycov)
-- Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava` `power-profiles-daemon`
+- Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava` `power-profiles-daemon` `brightnessctl`
 - Launcher 🚀 : `wofi` 
 - Notification daemon 🔔 : `mako`
 - Wallpaper utility 🌅 : `swww`
