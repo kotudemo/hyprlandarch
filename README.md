@@ -19,7 +19,7 @@ change bar
 - Powermenu 🔌 : `wllogout`
 - Clipboard history 📋 : `wl-clipboard` and `cliphist`
 - Gamma adjustments tool 🌇 : `wlsunset` 
-- Colorpicker 🖌️ : `wl-color-picker`
+- Colorpicker 🖌️ : `hyprpicker-git`
 - Screenshots and text extracting 📸 : `grim` `slurp` `swappy` `imagemagick` `tesseract`
 - Fancy CLI 💻 : `fish` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
 - Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
