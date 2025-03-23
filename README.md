@@ -20,7 +20,7 @@ change bar
 - Clipboard history 📋 : `wl-clipboard` and `cliphist`
 - Gamma adjustments tool 🌇 : `wlsunset` 
 - Colorpicker 🖌️ : `hyprpicker-git`
-- Screenshots and text extracting 📸 : `grim` `slurp` `swappy` `imagemagick` `tesseract`
+- Screenshots and text extracting 📸 : `grimblast-git` `swappy` `imagemagick` `tesseract`
 - Fancy CLI 💻 : `fish` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
 - Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
 - File manager 📁 : `nemo`
