@@ -5,7 +5,7 @@
 
 
 ## TODO LIST
-alt tab realization
+alt tab realization \
 change bar 
 
 ## All software I use 
