@@ -5,7 +5,7 @@
 
 
 ## TODO LIST
-add some fancy plugins \
+alt tab realization
 change bar 
 
 ## All software I use 
