@@ -21,7 +21,7 @@ change bar
 - Gamma adjustments tool 🌇 : `wlsunset` 
 - Colorpicker 🖌️ : `hyprpicker-git`
 - Screenshots and text extracting 📸 : `grimblast-git` `swappy` `tesseract`
-- Fancy CLI 💻 : `fish` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
+- Fancy CLI 💻 : `fish` `fish-autopair` `fisher` `foot` `fastfetch` `starship` `asciiquarium` `tty-clock` `nyancat` `cava` `btop` `eza` 
 - Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
 - File manager 📁 : `nemo`
 - VPN and proxies 🥷 : `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
