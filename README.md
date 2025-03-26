@@ -9,8 +9,7 @@
 
 
 ## TODO LIST
-alt tab realization \
-change bar 
+ansible setup
 
 ## All software I use 
 - Session manager 👤 : `ly` 
