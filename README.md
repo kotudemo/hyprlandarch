@@ -1,5 +1,5 @@
 ## AGS
-![screen-1742985305](https://github.com/user-attachments/assets/a4ee4d45-fae3-4032-b973-298eed8b41a9)
+![screen-1742987016](https://github.com/user-attachments/assets/ab4832e1-1b9f-4ec0-9c48-2b80931fdbb2)
 ![image](https://github.com/user-attachments/assets/10868421-0559-4e4a-b7f7-b96d373eedb0)
 ![screen-1742985778](https://github.com/user-attachments/assets/e895fde9-ed96-4753-9fc0-15beea985d76)
 
