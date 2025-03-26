@@ -1,6 +1,6 @@
 ## AGS
+![screen-1742985305](https://github.com/user-attachments/assets/a4ee4d45-fae3-4032-b973-298eed8b41a9)
 ![screen-1742984500](https://github.com/user-attachments/assets/bff1efe1-a381-45e6-944f-2dfaf8bac56a)
-![screen-1742984107](https://github.com/user-attachments/assets/01c3ad01-2532-42b8-b1b2-145bc9dd1797)
 ## Waybar
 ![image](https://github.com/user-attachments/assets/c970c856-d770-45f9-963b-d69876b6f48a)
 ![image](https://github.com/user-attachments/assets/1b6c1dff-347f-4b0b-ab55-b34aedc9c3a3)
