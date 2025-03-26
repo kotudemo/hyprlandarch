@@ -17,9 +17,8 @@ ansible setup
 - Session manager 👤 : `ly` 
 - Window manager 🗔 : `hyprland`
 - Bar 🍫 : `ags-hyprpanel-git`
-- Alternative bar : `wttrbar` `wttr` `waybar-cava` `power-profiles-daemon` `wllogout`
-- Launcher 🚀 : `wofi` 
-- Notification daemon 🔔 : `mako`
+- Alternative bar : `wttrbar` `wttr` `waybar-cava` `power-profiles-daemon` `wllogout` `mako`
+- Launcher 🚀 : `wofi`  
 - Wallpaper utility 🌅 : `swww`
 - Screen locking utility 🔒 : `swaylock` 
 - Clipboard history 📋 : `wl-clipboard` and `cliphist`
