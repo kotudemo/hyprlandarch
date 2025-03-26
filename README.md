@@ -1,3 +1,5 @@
+![screen-1742984500](https://github.com/user-attachments/assets/bff1efe1-a381-45e6-944f-2dfaf8bac56a)
+![screen-1742984107](https://github.com/user-attachments/assets/01c3ad01-2532-42b8-b1b2-145bc9dd1797)
 ![image](https://github.com/user-attachments/assets/c970c856-d770-45f9-963b-d69876b6f48a)
 ![image](https://github.com/user-attachments/assets/1b6c1dff-347f-4b0b-ab55-b34aedc9c3a3)
 ![image](https://github.com/user-attachments/assets/74afc7d2-9412-4af5-a93f-8fe4922fe347)
@@ -11,7 +13,8 @@ change bar
 ## All software I use 
 - Session manager 👤 : `ly` 
 - Window manager 🗔 : `hyprland` with [hycov](https://github.com/bighu630/hycov)
-- Waybar and modules 🍫 :`wttrbar` `wttr` `waybar-cava` `power-profiles-daemon` `brightnessctl`
+- Bar 🍫 : `ags-hyprpanel-gitw`
+- Alternative bar : `wttrbar` `wttr` `waybar-cava` `power-profiles-daemon` `brightnessctl`
 - Launcher 🚀 : `wofi` 
 - Notification daemon 🔔 : `mako`
 - Wallpaper utility 🌅 : `swww`
