@@ -461,5 +461,6 @@
   "theme.bar.buttons.modules.cpuTemp.text": "#fab387",
   "theme.bar.buttons.modules.cpuTemp.border": "#fab387",
   "theme.osd.border.color": "#b4befe",
-  "theme.bar.menus.monochrome": false
+  "theme.bar.menus.monochrome": false,
+  "bar.customModules.cava.autoSensitivity": true
 }
