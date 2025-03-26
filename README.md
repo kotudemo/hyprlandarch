@@ -16,7 +16,7 @@ ansible setup
 ## All software I use 
 - Session manager 👤 : `ly` 
 - Window manager 🗔 : `hyprland`
-- Bar 🍫 : `ags-hyprpanel-gitw`
+- Bar 🍫 : `ags-hyprpanel-git`
 - Alternative bar : `wttrbar` `wttr` `waybar-cava` `power-profiles-daemon` `brightnessctl`
 - Launcher 🚀 : `wofi` 
 - Notification daemon 🔔 : `mako`
