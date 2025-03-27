@@ -30,7 +30,7 @@ ansible setup
 - Text editors 🖹 : `nvim` `geany` `vscodium-bin-marketplace`
 - File manager 📁 : `nemo`
 - VPN and proxies 🥷 : `hiddify` `proton-vpn-gtk-app` and [zapret](https://github.com/Snowy-Fluffy/zapret.installer/tree/main)
-- Everyday software: `librewolf-bin` `telegram-desktop` `vesktop` `spotify` `mpv` `swayimg` `transmission-gtk3` `obs-studio` `wf-recorder` `galculator` `ark`
+- Everyday software: `librewolf-bin` `telegram-desktop` `vesktop` `spotify` [`spotify-wayland-fix`](https://www.reddit.com/r/swaywm/comments/191zdgs/support_both_wayland_and_x11_when_using/) `mpv` `swayimg` `transmission-gtk3` `obs-studio` `wf-recorder` `galculator` `ark`
 - Gaming 🎮 : [Steam](https://flathub.org/apps/com.valvesoftware.Steam) [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `protonup-qt-bin` `freesmlauncher` `the-honkers-railway-launcher-bin` `tetrio-plus-bin` 
 - Audio 🎧 :`pipewire`
 `realtime-privileges` `pamixer`
