@@ -46,7 +46,6 @@ Custom user.js
 
 ### Extensions 
 [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) with my gruvbox theme \
-
 [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
 [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) \
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
