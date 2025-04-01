@@ -46,15 +46,16 @@ Custom user.js
 
 ### Extensions 
 [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) with my gruvbox theme \
-[Midnight Lizard](https://addons.mozilla.org/en-US/firefox/addon/midnight-lizard-quantum/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) for avito \
+
 [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
 [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) \
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
-*[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) \
-*[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
 [Runet Censorship Bypass](https://addons.mozilla.org/en-US/firefox/addon/%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA-%D1%80%D1%83%D0%BD%D0%B5%D1%82%D0%B0/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
 [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
-*[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/) 
+*[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) \
+*[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) \
+*[Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/) \
+*[Midnight Lizard](https://addons.mozilla.org/en-US/firefox/addon/midnight-lizard-quantum/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) for avito 
 
 
 ### Theme
