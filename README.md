@@ -63,3 +63,4 @@ Custom user.js
 ## Other
 [spotify-wayland-fix](https://www.reddit.com/r/swaywm/comments/191zdgs/support_both_wayland_and_x11_when_using/) \
 [electron based apps walyand fix](https://wiki.hyprland.org/Nvidia/)
+[colorschemes to your wallpapers](https://notneelpatel.xyz/WallpaperThemeConverter/)
