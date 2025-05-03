@@ -41,6 +41,18 @@ color_purple = '#b16286'
 color_red = '#cc241d'
 color_yellow = '#d79921'
 
+[palettes.everforest_dark_medium]
+color_fg0 = '#d3c6aa'
+color_bg1 = "#343f44"
+color_bg3 = "#475258"
+color_blue = '#7fbbb3'
+color_aqua = '#83c092'
+color_green = 'a7c080'
+color_orange = '#e69875'
+color_purple = '#d699b6'
+color_red = '#e67e80'
+color_yellow = '#dbbc7f'
+
 [os]
 disabled = false
 style = "bg:color_orange fg:color_fg0"
