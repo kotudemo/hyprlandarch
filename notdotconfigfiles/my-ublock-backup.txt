@@ -1,0 +1,50 @@
+{
+  "timeStamp": 1705516306432,
+  "version": "1.55.0",
+  "userSettings": {
+    "externalLists": "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt",
+    "importedLists": [
+      "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt"
+    ]
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "block-lan",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "easylist-chat",
+    "easylist-newsletters",
+    "easylist-notifications",
+    "easylist-annoyances",
+    "fanboy-social",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "ublock-annoyances",
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "oauth.pervye.ru",
+    "opera-scheme",
+    "replugged.dev",
+    "resh.skysmart.ru",
+    "vivaldi-scheme",
+    "www.hoyolab.com",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": ""
+}
