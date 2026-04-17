@@ -1,16 +1,3 @@
-## AGS
-![image](https://github.com/user-attachments/assets/9ad3ba31-d8e4-4d30-9735-6ceacbb4493f)
-![screen-1742987016](https://github.com/user-attachments/assets/ab4832e1-1b9f-4ec0-9c48-2b80931fdbb2)
-![screen-1742988562](https://github.com/user-attachments/assets/ec71ab99-e55d-442d-a8a6-d707fceff164)
-![image](https://github.com/user-attachments/assets/4f037834-29e4-40b4-9e97-bf8a2ff6e3d6)
-
-## Waybar
-![image](https://github.com/user-attachments/assets/c970c856-d770-45f9-963b-d69876b6f48a)
-![image](https://github.com/user-attachments/assets/1b6c1dff-347f-4b0b-ab55-b34aedc9c3a3)
-![image](https://github.com/user-attachments/assets/74afc7d2-9412-4af5-a93f-8fe4922fe347)
-
-
-
 ## TODO LIST
 ansible setup
 
